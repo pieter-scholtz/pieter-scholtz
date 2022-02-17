@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "d4e1c4f3bf29d5af39f5b7b4f7c090d4",
-"/": "d4e1c4f3bf29d5af39f5b7b4f7c090d4",
+  "index.html": "ba319f362fd706b32f458ffa8e529ae5",
+"/": "ba319f362fd706b32f458ffa8e529ae5",
 "manifest.json": "c58884a2d51c23985850658029a90226",
 "version.json": "edac6610d63f93aebfb1c09a76230248",
-"main.dart.js": "1e74da029694a2777a43a03df4dc061a",
-"assets/NOTICES": "3a7f582f1dd8a87c6bcdb67f36fdf8a6",
+"main.dart.js": "88ad191eff1fe43698d61ac42cbaa245",
+"assets/NOTICES": "ce0513256d029d79cedfb34d480c228f",
 "assets/AssetManifest.json": "1b1637a32286fee38b7df3f3ce2da987",
 "assets/assets/images/audio_control/simple_on.png": "63e24186aec21d19e6f82f88d656a951",
 "assets/assets/images/audio_control/yellow_dashatar_off.png": "f1606e5fb255a5a48dbadc722a983060",
@@ -93,10 +93,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "aabba36693aba0ec8d954adf297d3125",
 "icons/favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
 "favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101"
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd"
 };
 
 // The application shell files that are downloaded before a service worker can
