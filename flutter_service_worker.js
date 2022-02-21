@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "ba319f362fd706b32f458ffa8e529ae5",
-"/": "ba319f362fd706b32f458ffa8e529ae5",
+  "index.html": "cccdd450bf799fd6392f95f76f9ababa",
+"/": "cccdd450bf799fd6392f95f76f9ababa",
 "manifest.json": "c58884a2d51c23985850658029a90226",
 "version.json": "edac6610d63f93aebfb1c09a76230248",
-"main.dart.js": "88ad191eff1fe43698d61ac42cbaa245",
-"assets/NOTICES": "ce0513256d029d79cedfb34d480c228f",
+"main.dart.js": "0178f8cfb4338c9c4b5469345c82ffa7",
+"assets/NOTICES": "4e96a5cf25741889ab42abe28566a655",
 "assets/AssetManifest.json": "1b1637a32286fee38b7df3f3ce2da987",
 "assets/assets/images/audio_control/simple_on.png": "63e24186aec21d19e6f82f88d656a951",
 "assets/assets/images/audio_control/yellow_dashatar_off.png": "f1606e5fb255a5a48dbadc722a983060",
@@ -90,6 +90,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "a6a35a39ab693849dcde3aba2d4304a7",
 "icons/Icon-192.png": "12d05db1c0b26d429b54e3f8c946a496",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "aabba36693aba0ec8d954adf297d3125",
 "icons/favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
 "favicon.png": "7a26ea9d4e61122fc023b84e5acdb148",
